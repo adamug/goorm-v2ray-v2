@@ -1,7 +1,7 @@
 goorm-v2ray
 用于在 goorm上运行v2ray 食用方法
 
-wget https://raw.githubusercontent.com/byxiaopeng/goorm-v2ray/master/goormv2.sh
+wget https://raw.githubusercontent.com/francnlee/goorm-v2ray-v2/master/goormv2.sh
 chmod +x goormv2.sh
 ./goormv2.sh
 直接用goorm上的Run URL & Port域名和和443端口连接
